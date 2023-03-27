@@ -69,16 +69,6 @@ while page <= pages:
             pass
 
 
-    #other_info = driver.find_elements(By.XPATH, "//li[@class= 'react-job-listing css-19d5y1n eigr9kq3']")
-    
-    #time.sleep(2)
-    #for info in other_info:
-
-        
-
-    #    info.click()
-    #    time.sleep(2)
-
         try:
             year.append(driver.find_element(By.XPATH, ".//div[contains(@class, 'e1pvx6aw0')]/span[text()='Founded']/following-sibling::span").text)
         except NoSuchElementException:
