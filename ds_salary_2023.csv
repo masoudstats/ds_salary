@@ -1,0 +1,901 @@
+name,year,revenue,employee,sector,job_title,location,salary_est
+Skillquotient,2016,$25 to $100 million (USD),501 to 1000 Employees,Information Technology,Artificial Intelligence- Data Science,Remote,$76K - $179K (Employer est.)
+Sephora USA,1969,$1 to $5 billion (USD),10000+ Employees,Retail & Wholesale,"Manager, Data Science Analytics",Remote,$180K - $181K (Employer est.)
+Norwin,NaN,Unknown / Non-Applicable,1 to 50 Employees,Manufacturing,Data Engineer,"South San Francisco, CA",$90.00 Per Hour(Employer est.)
+Electric Power Research Institute,1973,$100 to $500 million (USD),501 to 1000 Employees,Management & Consulting,Digital Transformation/Data Science Student Employee,Remote,NaN
+REVOLVE,2003,$500 million to $1 billion (USD),1001 to 5000 Employees,Retail & Wholesale,Data Science Analyst,"Cerritos, CA",$90K (Employer est.)
+Net2Aspire,NaN,Unknown / Non-Applicable,51 to 200 Employees,NaN,Jr. Data Scientist,Remote,$65K - $80K (Employer est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Skyworks,1962,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Analytics Winter Co-Op,"Irvine, CA",$22.50 - $42.00 Per Hour(Employer est.)
+Procter & Gamble,1837,$10+ billion (USD),10000+ Employees,Manufacturing,Data Scientist,"Cincinnati, OH",$85K - $115K (Employer est.)
+Parafin,2020,Unknown / Non-Applicable,51 to 200 Employees,Financial Services,"Data Scientist, Analytics","San Francisco, CA",$140K - $160K (Employer est.)
+Bayer,1863,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Remote Sensing Data Scientist - REMOTE,United States,$116K - $175K (Employer est.)
+KesarWeb,NaN,Unknown / Non-Applicable,1 to 50 Employees,NaN,Data Scientist,"Columbus, OH",$96K - $103K (Employer est.)
+"WhirlWind Technologies, LLC",NaN,$1 to $5 million (USD),1 to 50 Employees,NaN,Jr. Data Scientist,Remote,$86K - $110K (Employer est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Polco,NaN,Unknown / Non-Applicable,51 to 200 Employees,Government & Public Administration,Associate Data Scientist,Remote,$80K - $110K (Employer est.)
+Clarify Health Solutions.,2015,$25 to $100 million (USD),201 to 500 Employees,Information Technology,Senior Healthcare Data Analyst,Remote,$108K - $146K (Employer est.)
+Insulet Corporation,2000,$1 to $5 billion (USD),1001 to 5000 Employees,Pharmaceutical & Biotechnology,"Co-Op, Data Science (Hybrid)","Acton, MA",$94K - $140K (Glassdoor est.)
+pulseData,2015,Unknown / Non-Applicable,1 to 50 Employees,Healthcare,Data Engineer - Jr/Mid Level (Remote),United States,$75K - $120K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+"Fiserv, Inc.",1984,$10+ billion (USD),10000+ Employees,Financial Services,Jr. Data Scientist,"Berkeley Heights, NJ",$80K - $113K (Glassdoor est.)
+Unilever,1872,$10+ billion (USD),10000+ Employees,Manufacturing,Data Scientist,"Trumbull, CT",$67K - $101K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Data Scientist,"Atlanta, GA",$83K - $129K (Glassdoor est.)
+Capgemini,1967,$10+ billion (USD),10000+ Employees,Information Technology,Data Engineers,"Universal City, CA",$76K - $112K (Glassdoor est.)
+Notion,2016,Unknown / Non-Applicable,201 to 500 Employees,Information Technology,"Data Scientist, Sales & Success","San Francisco, CA",$160K - $210K (Employer est.)
+Parexel,1982,$1 to $5 billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Business Intelligence Analyst,Remote,NaN
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Webstaurant Store,2004,$500 million to $1 billion (USD),1001 to 5000 Employees,Retail & Wholesale,Applied Data Scientist,"Lititz, PA",$70K - $110K (Employer est.)
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+The College Board,1900,$500 million to $1 billion (USD),1001 to 5000 Employees,Education,Data Scientist (Engineer II),Remote,$110K - $115K (Employer est.)
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+Excellus,1936,$1 to $5 billion (USD),5001 to 10000 Employees,Insurance,Data Scientist I/II/III - 014373,"Rochester, NY",$76K - $119K (Glassdoor est.)
+"Gametime United, Inc.",2013,$25 to $100 million (USD),51 to 200 Employees,"Arts, Entertainment & Recreation",Data Scientist - Retention,United States,$115K - $130K (Employer est.)
+Fives,1812,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,"Data Science Engineer (Machine Vision, Machine Learning, Python)","Seattle, WA",$107K - $135K (Employer est.)
+"The Travelers Companies, Inc.",1853,$10+ billion (USD),10000+ Employees,Insurance,"Data Engineer 1 (AWS, SQL, Python)","Hartford, CT",$103K - $169K (Employer est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+Megaport,2013,Unknown / Non-Applicable,201 to 500 Employees,Telecommunications,AI/ML Engineer,Remote,NaN
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Lightspeed Systems,1999,$25 to $100 million (USD),201 to 500 Employees,Information Technology,Junior Data Scientist,"Austin, TX",$76K - $116K (Glassdoor est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Norstella,NaN,NaN,NaN,NaN,Data Scientist - RWD,Remote,$150K - $175K (Employer est.)
+Bloom Insurance,2006,$25 to $100 million (USD),201 to 500 Employees,Insurance,Data Engineer I,Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+GFiber,1998,$10+ billion (USD),10000+ Employees,Information Technology,"Network Data Analytics Engineer, CPE","Mountain View, CA",$137K - $188K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+GroupM Nexus,2003,Unknown / Non-Applicable,10000+ Employees,Media & Communication,"Analyst, Data Science","New York, NY",$82K - $120K (Glassdoor est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+The College Board,1900,$500 million to $1 billion (USD),1001 to 5000 Employees,Education,Senior Data Scientist,Remote,NaN
+BlueOcean,1994,$25 to $100 million (USD),501 to 1000 Employees,Media & Communication,Data Engineer,New Jersey,$135K - $155K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Dropbox,2007,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,"Senior Data Scientist, New Initiatives",Remote,NaN
+Amadeus,1987,$1 to $5 billion (USD),10000+ Employees,Information Technology,Data Science Trainee,United States,NaN
+"The Travelers Companies, Inc.",1853,$10+ billion (USD),10000+ Employees,Insurance,Data Scientist,"Hartford, CT",$122K - $201K (Employer est.)
+Liberty Mutual Insurance,1912,$10+ billion (USD),10000+ Employees,Insurance,Data Engineer,Remote,$91K - $130K (Employer est.)
+NORC at the University of Chicago,1941,$100 to $500 million (USD),1001 to 5000 Employees,Management & Consulting,Data Scientist - Healthcare Claims Analytics,Oregon,NaN
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,Senior Data Engineer,"New York, NY",$40K - $160K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Storylines,2016,Unknown / Non-Applicable,1 to 50 Employees,Hotels & Travel Accommodation,Python Machine Learning Developer,Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+"The Travelers Companies, Inc.",1853,$10+ billion (USD),10000+ Employees,Insurance,"Data Engineer 1 (AWS, SQL, Python)","Hartford, CT",$103K - $169K (Employer est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+LTK,NaN,NaN,NaN,NaN,Data Engineer,Remote,$250K (Employer est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,Senior Data Engineer,"New York, NY",$40K - $160K (Employer est.)
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+Colgate-Palmolive,1806,$10+ billion (USD),10000+ Employees,Manufacturing,"Director, Global Data Platforms","Piscataway, NJ",$158K - $233K (Employer est.)
+Pipe Technologies,NaN,Unknown / Non-Applicable,1 to 50 Employees,NaN,Data Engineer,"Miami, FL",NaN
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+PayPal,1998,$10+ billion (USD),10000+ Employees,Information Technology,"Data Science Mng, Marketing Analytics",California,$85K - $205K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,Data Engineer,"Foster City, CA",$143K - $200K (Employer est.)
+LeewayHertz,NaN,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Software Developer (AI/ML),"San Francisco, CA",$75K - $120K (Glassdoor est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Volkswagen Group of America,1955,$5 to $25 million (USD),1001 to 5000 Employees,Manufacturing,Data Engineer,Remote,$78K - $113K (Employer est.)
+Unum,1848,$10+ billion (USD),5001 to 10000 Employees,Insurance,Marketing Analytics - Data Scientist,"Portland, ME",$89K - $127K (Glassdoor est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+GroupM Nexus,2003,Unknown / Non-Applicable,10000+ Employees,Media & Communication,"Analyst, Data Science","New York, NY",$82K - $120K (Glassdoor est.)
+Black Knight,2013,Less than $1 million (USD),5001 to 10000 Employees,Information Technology,Data Scientist III Supervisor,"Philadelphia, PA",$80K - $112K (Glassdoor est.)
+PepsiCo,1965,$10+ billion (USD),10000+ Employees,Manufacturing,Data Engineer,"Plano, TX",$81K - $117K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,Data Engineer,"Foster City, CA",$143K - $200K (Employer est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Storylines,2016,Unknown / Non-Applicable,1 to 50 Employees,Hotels & Travel Accommodation,Python Machine Learning Developer,Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+The College Board,1900,$500 million to $1 billion (USD),1001 to 5000 Employees,Education,Data Scientist (Engineer II),Remote,$110K - $115K (Employer est.)
+Colgate-Palmolive,1806,$10+ billion (USD),10000+ Employees,Manufacturing,"Director, Global Data Platforms","Piscataway, NJ",$158K - $233K (Employer est.)
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+ServiceMaster,1929,$1 to $5 billion (USD),1001 to 5000 Employees,Management & Consulting,Data Scientist,Remote,NaN
+Volkswagen Group of America,1955,$5 to $25 million (USD),1001 to 5000 Employees,Manufacturing,Data Engineer,Remote,$78K - $113K (Employer est.)
+Smith & Associates,1984,$1 to $5 billion (USD),501 to 1000 Employees,Information Technology,Junior AI/ML Engineer,"Houston, TX",$43K - $64K (Glassdoor est.)
+Megaport,2013,Unknown / Non-Applicable,201 to 500 Employees,Telecommunications,AI/ML Engineer,Remote,NaN
+Cars.com,1998,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,Data Engineer,"Chicago, IL",$90K - $131K (Glassdoor est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Turvo Inc,2014,Unknown / Non-Applicable,201 to 500 Employees,Information Technology,Data Specialist,Remote,$70K - $130K (Employer est.)
+Arkansas Blue Cross and Blue Shield,NaN,NaN,NaN,NaN,Data Engineer,Oklahoma,NaN
+"Health Services Advisory Group, Inc.",1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Analyst I,Remote,$70K - $75K (Employer est.)
+Driscoll Health,NaN,Unknown / Non-Applicable,Unknown,Healthcare,Data Scientist,"Corpus Christi, TX",$71K - $115K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+LTK,NaN,NaN,NaN,NaN,Data Engineer,Remote,$250K (Employer est.)
+Alltech Inc,1980,Unknown / Non-Applicable,1001 to 5000 Employees,Agriculture,Data Engineer,"Nicholasville, KY",NaN
+Sportradar AG,2001,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,Data Engineer,Remote,NaN
+Royal Credit Union,1964,$1 to $5 billion (USD),501 to 1000 Employees,Financial Services,Data Engineer,"Eau Claire, WI",$92K - $105K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,"Manager, Data Science","Foster City, CA",$204K - $294K (Employer est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,Senior Data Engineer,"New York, NY",$40K - $160K (Employer est.)
+Storylines,2016,Unknown / Non-Applicable,1 to 50 Employees,Hotels & Travel Accommodation,Python Machine Learning Developer,Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+CVS Health,1963,$10+ billion (USD),10000+ Employees,Healthcare,Data Engineer (HCB),Illinois,$70K - $140K (Employer est.)
+Playrix,NaN,NaN,NaN,NaN,Head Of Data Science,Remote,NaN
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5) - Platform,"Los Gatos, CA",$110K - $192K (Glassdoor est.)
+Colgate-Palmolive,1806,$10+ billion (USD),10000+ Employees,Manufacturing,"Director, Global Data Platforms","Piscataway, NJ",$158K - $233K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Megaport,2013,Unknown / Non-Applicable,201 to 500 Employees,Telecommunications,AI/ML Engineer,Remote,NaN
+Smith & Associates,1984,$1 to $5 billion (USD),501 to 1000 Employees,Information Technology,Junior AI/ML Engineer,"Houston, TX",$43K - $64K (Glassdoor est.)
+GroupM Nexus,2003,Unknown / Non-Applicable,10000+ Employees,Media & Communication,"Analyst, Data Science","New York, NY",$82K - $120K (Glassdoor est.)
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Duolingo,2011,$100 to $500 million (USD),201 to 500 Employees,Information Technology,Head of Data Science,"New York, NY",$196K - $314K (Employer est.)
+Medallia,2001,$100 to $500 million (USD),1001 to 5000 Employees,Information Technology,Data Science Manager,United States,$200K - $270K (Employer est.)
+Brown Brothers Harriman,1818,$1 to $5 billion (USD),1001 to 5000 Employees,Financial Services,Sr. Java Performance Engineer (Data Science),"Boston, MA",$103K - $151K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+GroupM Nexus,2003,Unknown / Non-Applicable,10000+ Employees,Media & Communication,"Analyst, Data Science","New York, NY",$82K - $120K (Glassdoor est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,"Manager, Data Science","Foster City, CA",$204K - $294K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Alston & Bird,1982,$500 million to $1 billion (USD),1001 to 5000 Employees,Legal,Data Scientist / Analytics Engineer,"Atlanta, GA",$85K - $122K (Glassdoor est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,Senior Data Engineer,"New York, NY",$40K - $160K (Employer est.)
+Duolingo,2011,$100 to $500 million (USD),201 to 500 Employees,Information Technology,Head of Data Science,"New York, NY",$196K - $314K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Colgate-Palmolive,1806,$10+ billion (USD),10000+ Employees,Manufacturing,"Director, Global Data Platforms","Piscataway, NJ",$158K - $233K (Employer est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+SysIntelli,NaN,$1 to $5 million (USD),51 to 200 Employees,Financial Services,Data Scientist: Advanced Analytics,"San Diego, CA",$90K - $131K (Glassdoor est.)
+Abbott Laboratories,1888,$10+ billion (USD),10000+ Employees,Healthcare,"Director, Data Science & Advanced Analytics","Sylmar, CA",$136K - $272K (Employer est.)
+BlueOcean,1994,$25 to $100 million (USD),501 to 1000 Employees,Media & Communication,Data Engineer,New Jersey,$135K - $155K (Employer est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+Dropbox,2007,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,"Senior Data Scientist, New Initiatives",Remote,NaN
+Brown Brothers Harriman,1818,$1 to $5 billion (USD),1001 to 5000 Employees,Financial Services,Sr. Java Performance Engineer (Data Science),"Boston, MA",$103K - $151K (Glassdoor est.)
+Dataspace,1994,$5 to $25 million (USD),1 to 50 Employees,Information Technology,171: Data Engineers (Sr & Jr),Massachusetts,$120K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+L'Oreal,1909,$10+ billion (USD),10000+ Employees,Manufacturing,Director - Commercial Data Engineer,"El Segundo, CA",$120K - $179K (Glassdoor est.)
+pulseData,2015,Unknown / Non-Applicable,1 to 50 Employees,Healthcare,Data Engineer - Jr/Mid Level (Remote),United States,$75K - $120K (Employer est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Infrastructure,California,NaN
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+SysIntelli,NaN,$1 to $5 million (USD),51 to 200 Employees,Financial Services,Analytics Associate,"San Diego, CA",$62K - $89K (Glassdoor est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,"Manager, Data Science","Foster City, CA",$204K - $294K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Qualitest,1997,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,Project Manager (Data Science),New Jersey,$90K - $130K (Employer est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+DraftKings,2012,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,SENIOR DATA SCIENCE ENGINEER (ECONOMIST),"Boston, MA",$99K - $141K (Glassdoor est.)
+University of Pennsylvania,1740,Unknown / Non-Applicable,10000+ Employees,Education,Data Scientist,"Philadelphia, PA",NaN
+Duolingo,2011,$100 to $500 million (USD),201 to 500 Employees,Information Technology,Head of Data Science,"New York, NY",$196K - $314K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+Sun Life,1865,$10+ billion (USD),10000+ Employees,Insurance,Data Science Co-op,"Wellesley Hills, MA",$75K - $111K (Glassdoor est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Qualitest,1997,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,Project Manager (Data Science),New Jersey,$90K - $130K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Infrastructure,California,NaN
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Storylines,2016,Unknown / Non-Applicable,1 to 50 Employees,Hotels & Travel Accommodation,Python Machine Learning Developer,Remote,NaN
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,"Manager, Data Science","Foster City, CA",$204K - $294K (Employer est.)
+Black Knight,2013,Less than $1 million (USD),5001 to 10000 Employees,Information Technology,Data Scientist III Supervisor,"Philadelphia, PA",$80K - $112K (Glassdoor est.)
+Veho,NaN,Unknown / Non-Applicable,51 to 200 Employees,NaN,Director of Data - Marketplace Intelligence,Remote,$200K - $260K (Employer est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Skillquotient,2016,$25 to $100 million (USD),501 to 1000 Employees,Information Technology,Artificial Intelligence- Data Science,Remote,$76K - $179K (Employer est.)
+Duolingo,2011,$100 to $500 million (USD),201 to 500 Employees,Information Technology,Head of Data Science,"New York, NY",$196K - $314K (Employer est.)
+Smith & Associates,1984,$1 to $5 billion (USD),501 to 1000 Employees,Information Technology,Junior AI/ML Engineer,"Houston, TX",$43K - $64K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+CVS Health,1963,$10+ billion (USD),10000+ Employees,Healthcare,Data Engineer (HCB),Illinois,$70K - $140K (Employer est.)
+Insulet Corporation,2000,$1 to $5 billion (USD),1001 to 5000 Employees,Pharmaceutical & Biotechnology,"Co-Op, Data Science (Hybrid)","Acton, MA",$94K - $140K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,Global Trading Data Strategy and Analytics - Vice President,"New York, NY",$162K - $200K (Employer est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+University of Pennsylvania,1740,Unknown / Non-Applicable,10000+ Employees,Education,Data Scientist,"Philadelphia, PA",NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Mayo Clinic,NaN,$10+ billion (USD),10000+ Employees,Healthcare,Data Science Analyst - Platform - Remote,"Rochester, MN",$95K - $134K (Employer est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Veho,NaN,Unknown / Non-Applicable,51 to 200 Employees,NaN,Director of Data - Marketplace Intelligence,Remote,$200K - $260K (Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Live Nation,2005,$5 to $10 billion (USD),10000+ Employees,Media & Communication,Data Engineer,"West Hollywood, CA",NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+BlueOcean,1994,$25 to $100 million (USD),501 to 1000 Employees,Media & Communication,Data Engineer,New Jersey,$135K - $155K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,Senior Data Engineer,"New York, NY",$40K - $160K (Employer est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Corteva Agriscience,2019,Unknown / Non-Applicable,10000+ Employees,Agriculture,Data Engineer,"Des Moines, IA",$78K - $116K (Glassdoor est.)
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,"Manager, Data Science","Foster City, CA",$204K - $294K (Employer est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+Brown Brothers Harriman,1818,$1 to $5 billion (USD),1001 to 5000 Employees,Financial Services,Sr. Java Performance Engineer (Data Science),"Boston, MA",$103K - $151K (Glassdoor est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+DraftKings,2012,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,SENIOR DATA SCIENCE ENGINEER (ECONOMIST),"Boston, MA",$99K - $141K (Glassdoor est.)
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,"Manager, Data Science","Foster City, CA",$204K - $294K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Dallas, TX",$100K - $135K (Employer est.)
+pulseData,2015,Unknown / Non-Applicable,1 to 50 Employees,Healthcare,Data Engineer - Jr/Mid Level (Remote),United States,$75K - $120K (Employer est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+University of Pennsylvania,1740,Unknown / Non-Applicable,10000+ Employees,Education,Data Scientist,"Philadelphia, PA",NaN
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Insulet Corporation,2000,$1 to $5 billion (USD),1001 to 5000 Employees,Pharmaceutical & Biotechnology,"Co-Op, Data Science (Hybrid)","Acton, MA",$94K - $140K (Glassdoor est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Veho,NaN,Unknown / Non-Applicable,51 to 200 Employees,NaN,Director of Data - Marketplace Intelligence,Remote,$200K - $260K (Employer est.)
+PacTel Solutions,2003,Unknown / Non-Applicable,1 to 50 Employees,Telecommunications,Data Engineer,"Allen, TX",$52.80 Per Hour(Employer est.)
+IQVIA,2017,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Data Engineer,Remote,NaN
+Mercer,1945,$1 to $5 billion (USD),10000+ Employees,Management & Consulting,Data Science Analyst,"Franklin, MA",$59K - $118K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Brown Brothers Harriman,1818,$1 to $5 billion (USD),1001 to 5000 Employees,Financial Services,Sr. Java Performance Engineer (Data Science),"Boston, MA",$103K - $151K (Glassdoor est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Nike,1972,$10+ billion (USD),10000+ Employees,Manufacturing,Data Engineer,"Beaverton, OR",$95K - $135K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Intuit,1983,$10+ billion (USD),10000+ Employees,Information Technology,Data Engineer II (Mailchimp),"Brooklyn, NY",$93K - $142K (Glassdoor est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+Mayo Clinic,NaN,$10+ billion (USD),10000+ Employees,Healthcare,Data Engineer - CDH - Remote,"Rochester, MN",$95K - $134K (Employer est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+Mayo Clinic,NaN,$10+ billion (USD),10000+ Employees,Healthcare,Artificial Intelligence Scientist,"Rochester, MN",$77K - $125K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Moderna Therapeutics,2011,$10+ billion (USD),1001 to 5000 Employees,Pharmaceutical & Biotechnology,2023 Data Science and Artificial Intelligence Co-Op,"Cambridge, MA",NaN
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Corteva Agriscience,2019,Unknown / Non-Applicable,10000+ Employees,Agriculture,Data Engineer,"Des Moines, IA",$78K - $116K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Brown Brothers Harriman,1818,$1 to $5 billion (USD),1001 to 5000 Employees,Financial Services,Sr. Java Performance Engineer (Data Science),"Boston, MA",$103K - $151K (Glassdoor est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Solution Design Group,1989,$25 to $100 million (USD),201 to 500 Employees,Information Technology,Cloud Data Engineer,"Minneapolis, MN",$83K - $116K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Infrastructure,California,NaN
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+Ampion,NaN,Unknown / Non-Applicable,1 to 50 Employees,Information Technology,Senior Data Engineer,"Bar Harbor, ME",$87K - $125K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Analytics Engineer, Real Estate Data Strategy & Analytics","Chicago, IL",$95K - $131K (Glassdoor est.)
+"Analysis Group, Inc.",1981,$100 to $500 million (USD),1001 to 5000 Employees,Management & Consulting,Data Engineer,"Boston, MA",$93K - $135K (Glassdoor est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Avant,2012,Unknown / Non-Applicable,501 to 1000 Employees,Financial Services,Data Science Sr Associate,"Chicago, IL",$76K - $119K (Glassdoor est.)
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+Bayer,1863,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Director Real World Data/Real World Evidence & Behavioral Science,"Whippany, NJ",NaN
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+INTEL,1968,$10+ billion (USD),10000+ Employees,Information Technology,Deep Learning Compiler Engineer,"Santa Clara, CA",$217K - $347K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Dallas, TX",$100K - $135K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Roku,2002,$500 million to $1 billion (USD),1001 to 5000 Employees,Information Technology,"Sr. Manager, Data Science","Austin, TX",$292K - $600K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,"Executive Director, Data Science","Burbank, CA",$125K - $233K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Smith & Associates,1984,$1 to $5 billion (USD),501 to 1000 Employees,Information Technology,Junior AI/ML Engineer,"Houston, TX",$43K - $64K (Glassdoor est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+Moderna Therapeutics,2011,$10+ billion (USD),1001 to 5000 Employees,Pharmaceutical & Biotechnology,2023 Data Science and Artificial Intelligence Co-Op,"Cambridge, MA",NaN
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+CPS Energy,1942,$1 to $5 billion (USD),1001 to 5000 Employees,"Energy, Mining & Utilities",Data Engineer 2 - Data & Analytics Engineering,"San Antonio, TX",$81K - $117K (Glassdoor est.)
+Abbott Laboratories,1888,$10+ billion (USD),10000+ Employees,Healthcare,"Director, Data Science & Advanced Analytics","Sylmar, CA",$136K - $272K (Employer est.)
+IQVIA,2017,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Data Engineer,Remote,NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Roku,2002,$500 million to $1 billion (USD),1001 to 5000 Employees,Information Technology,"Sr. Manager, Data Science","Austin, TX",$292K - $600K (Employer est.)
+Sojern,2007,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Manager of Data Science,"San Francisco, CA",$128K - $179K (Glassdoor est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+pulseData,2015,Unknown / Non-Applicable,1 to 50 Employees,Healthcare,Data Engineer - Jr/Mid Level (Remote),United States,$75K - $120K (Employer est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+CPS Energy,1942,$1 to $5 billion (USD),1001 to 5000 Employees,"Energy, Mining & Utilities",Data Engineer 2 - Data & Analytics Engineering,"San Antonio, TX",$81K - $117K (Glassdoor est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Dallas, TX",$100K - $135K (Employer est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Abbott Laboratories,1888,$10+ billion (USD),10000+ Employees,Healthcare,"Director, Data Science & Advanced Analytics","Sylmar, CA",$136K - $272K (Employer est.)
+Moderna Therapeutics,2011,$10+ billion (USD),1001 to 5000 Employees,Pharmaceutical & Biotechnology,2023 Data Science and Artificial Intelligence Co-Op,"Cambridge, MA",NaN
+Massachusetts General Hospital(MGH),1811,$1 to $5 billion (USD),10000+ Employees,Healthcare,Junior Machine Learning Scientist,"Boston, MA",NaN
+Doosan Bobcat,NaN,$10+ billion (USD),1001 to 5000 Employees,Financial Services,Data Science Analyst (I or II DOE),"Fargo, ND",$57K - $82K (Glassdoor est.)
+UNITED PARCEL SERVICE,1907,$10+ billion (USD),10000+ Employees,Transportation & Logistics,Manager of Data Science,"Atlanta, GA",$91K - $131K (Glassdoor est.)
+Colgate-Palmolive,1806,$10+ billion (USD),10000+ Employees,Manufacturing,"Director, Global Data Platforms","Piscataway, NJ",$158K - $233K (Employer est.)
+Electric Power Research Institute,1973,$100 to $500 million (USD),501 to 1000 Employees,Management & Consulting,Digital Transformation/Data Science Student Employee,Remote,NaN
+GSK,1830,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,AI/ML Engineer – Sequence Learning,"San Francisco, CA",$59K - $100K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Infrastructure,California,NaN
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+North Carolina State University,1887,$500 million to $1 billion (USD),1001 to 5000 Employees,Education,Data Science Education Postdoctoral Scholar,"Raleigh, NC",$70K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Turvo Inc,NaN,NaN,NaN,NaN,Data Specialist,Remote,$70K - $130K (Employer est.)
+Playrix,NaN,NaN,NaN,NaN,Head Of Data Science,Remote,NaN
+Rhino New York,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Sun Life,1865,$10+ billion (USD),10000+ Employees,Insurance,Data Science Co-op,"Wellesley Hills, MA",$75K - $111K (Glassdoor est.)
+Colgate-Palmolive,1806,$10+ billion (USD),10000+ Employees,Manufacturing,"Director, Global Data Platforms","Piscataway, NJ",$158K - $233K (Employer est.)
+Qualitest,1997,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,Project Manager (Data Science),New Jersey,$90K - $130K (Employer est.)
+"246,200",1879,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities","Data Engineering and Advanced Analytics, Senior Manager [HYBRID]","Rosemead, CA",$93K - $132K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Roku,2002,$500 million to $1 billion (USD),1001 to 5000 Employees,Information Technology,"Sr. Manager, Data Science","Austin, TX",$292K - $600K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Manager, Data Science - Streamlit","San Mateo, CA",$180K - $276K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+Verizon,2000,$10+ billion (USD),10000+ Employees,Telecommunications,Principal Engineer Data Science,"Irving, TX",$98K - $136K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Veho,NaN,Unknown / Non-Applicable,51 to 200 Employees,NaN,Director of Data - Marketplace Intelligence,Remote,$200K - $260K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+"246,200",1879,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities","Data Engineering and Advanced Analytics, Senior Manager [HYBRID]","Rosemead, CA",$93K - $132K (Glassdoor est.)
+Abbott Laboratories,1888,$10+ billion (USD),10000+ Employees,Healthcare,"Director, Data Science & Advanced Analytics","Sylmar, CA",$136K - $272K (Employer est.)
+Chainlink Labs,2014,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,"Senior Data Engineer, Data Analytics",Remote,NaN
+national neurotrauma society,NaN,NaN,NaN,NaN,Post-doctoral Scholar- Biomedical Data Science,California,NaN
+Liberty Mutual Insurance,1912,$10+ billion (USD),10000+ Employees,Insurance,Data Science Co-op (July - December 2023),"Boston, MA",$26.00 - $32.00 Per Hour(Employer est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Skyworks,1962,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Analytics Winter Co-Op,"Irvine, CA",$22.50 - $42.00 Per Hour(Employer est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+IQVIA,2017,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Data Engineer,Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Sr Data Engineer,"Richardson, TX",$89K - $126K (Glassdoor est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Pipe Technologies,NaN,Unknown / Non-Applicable,1 to 50 Employees,NaN,Data Engineer,"Miami, FL",NaN
+Volkswagen Group of America,1955,$5 to $25 million (USD),1001 to 5000 Employees,Manufacturing,Data Engineer,Remote,$78K - $113K (Employer est.)
+Norwin,NaN,Unknown / Non-Applicable,1 to 50 Employees,Manufacturing,Data Engineer,"South San Francisco, CA",$90.00 Per Hour(Employer est.)
+"Fiserv, Inc.",1984,$10+ billion (USD),10000+ Employees,Financial Services,Data Warehouse Engineer,"Alpharetta, GA",NaN
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Amadeus,1987,$1 to $5 billion (USD),10000+ Employees,Information Technology,Data Science Trainee,United States,NaN
+Ampion,NaN,Unknown / Non-Applicable,1 to 50 Employees,Information Technology,Senior Data Engineer,"Bar Harbor, ME",$87K - $125K (Glassdoor est.)
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+United Nations,NaN,NaN,NaN,NaN,ASSISTANT DATA ANALYST,"New York, NY",$49K - $74K (Glassdoor est.)
+"246,200",1879,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities","Data Engineering and Advanced Analytics, Senior Manager [HYBRID]","Rosemead, CA",$93K - $132K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+HERSHEY MX,1894,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Data Science Co-Op (Fall 2023),"Hershey, PA",$58K - $95K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Autodesk,1982,$1 to $5 billion (USD),10000+ Employees,Information Technology,Data Informatics Analyst,California,$67K - $116K (Employer est.)
+national neurotrauma society,NaN,NaN,NaN,NaN,Post-doctoral Scholar- Biomedical Data Science,California,NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+World Bank Group,NaN,$1 to $5 billion (USD),10000+ Employees,NaN,Data Analyst,"Washington, DC",$60K - $87K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Sr Data Engineer,"Richardson, TX",$89K - $126K (Glassdoor est.)
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+IQVIA,2017,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Data Engineer,Remote,NaN
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+SpaceX,2002,Unknown / Non-Applicable,5001 to 10000 Employees,Aerospace & Defense,Data Engineer,"Redmond, WA",$120K - $145K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+PGA Tour,1968,$500 million to $1 billion (USD),1001 to 5000 Employees,"Arts, Entertainment & Recreation",Data Analyst Experience Management,"Ponte Vedra Beach, FL",$50K - $70K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+PayPal,1998,$10+ billion (USD),10000+ Employees,Information Technology,"Data Science Mng, Marketing Analytics",California,$85K - $205K (Employer est.)
+Pipe Technologies,NaN,Unknown / Non-Applicable,1 to 50 Employees,NaN,Data Engineer,"Miami, FL",NaN
+pulseData,2015,Unknown / Non-Applicable,1 to 50 Employees,Healthcare,Data Engineer - Jr/Mid Level (Remote),United States,$75K - $120K (Employer est.)
+Turvo Inc,2014,Unknown / Non-Applicable,201 to 500 Employees,Information Technology,Data Specialist,Remote,$70K - $130K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Sr Data Engineer,"Richardson, TX",$89K - $126K (Glassdoor est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+World Bank Group,NaN,$1 to $5 billion (USD),10000+ Employees,NaN,Data Analyst,"Washington, DC",$60K - $87K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Volkswagen Group of America,1955,$5 to $25 million (USD),1001 to 5000 Employees,Manufacturing,Data Engineer,Remote,$78K - $113K (Employer est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Ampion,NaN,Unknown / Non-Applicable,1 to 50 Employees,Information Technology,Senior Data Engineer,"Bar Harbor, ME",$87K - $125K (Glassdoor est.)
+Snowflake,2012,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,"Solutions Consultant, Data Science",California,$110K - $162K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Parexel,1982,$1 to $5 billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Business Intelligence Analyst,Remote,NaN
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Sojern,2007,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Manager of Data Science,"San Francisco, CA",$128K - $179K (Glassdoor est.)
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+L'Oreal,1909,$10+ billion (USD),10000+ Employees,Manufacturing,Director - Commercial Data Engineer,"El Segundo, CA",$120K - $179K (Glassdoor est.)
+IQVIA,2017,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Data Engineer,Remote,NaN
+Meta,2004,$10+ billion (USD),10000+ Employees,Information Technology,"Data Engineer, Analytics (Generalist)",Remote,$165K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Freeport McMoRan,NaN,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Engineer I,"Phoenix, AZ",$68K - $92K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+HERSHEY MX,1894,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Data Science Co-Op (Fall 2023),"Hershey, PA",$58K - $95K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+World Bank Group,NaN,$1 to $5 billion (USD),10000+ Employees,NaN,Data Analyst,"Washington, DC",$60K - $87K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Abbott Laboratories,1888,$10+ billion (USD),10000+ Employees,Healthcare,"Director, Data Science & Advanced Analytics","Sylmar, CA",$136K - $272K (Employer est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Regions,1971,$5 to $10 billion (USD),10000+ Employees,Financial Services,Data Scientist - (REMOTE OPPORTUNITY),"Hoover, AL",$38K - $58K (Glassdoor est.)
+Parexel,1982,$1 to $5 billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Business Intelligence Analyst,Remote,NaN
+Kinect,2015,$1 to $5 million (USD),1 to 50 Employees,NaN,Sr. Data Engineer,"Santa Monica, CA",$99K - $141K (Glassdoor est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Autodesk,1982,$1 to $5 billion (USD),10000+ Employees,Information Technology,Data Informatics Analyst,California,$67K - $116K (Employer est.)
+PGA Tour,1968,$500 million to $1 billion (USD),1001 to 5000 Employees,"Arts, Entertainment & Recreation",Data Analyst - Data & Technology Solutions,"Ponte Vedra Beach, FL",$61K - $85K (Glassdoor est.)
+national neurotrauma society,NaN,NaN,NaN,NaN,Post-doctoral Scholar- Biomedical Data Science,California,NaN
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Analytics Engineer, Real Estate Data Strategy & Analytics","Chicago, IL",$95K - $131K (Glassdoor est.)
+Chainlink Labs,2014,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,"Senior Data Engineer, Data Analytics",Remote,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+PGA Tour,1968,$500 million to $1 billion (USD),1001 to 5000 Employees,"Arts, Entertainment & Recreation",Data Analyst Experience Management,"Ponte Vedra Beach, FL",$50K - $70K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+HERSHEY MX,1894,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Data Science Co-Op (Fall 2023),"Hershey, PA",$58K - $95K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+Synopsys,NaN,$1 to $5 billion (USD),10000+ Employees,Information Technology,Machine Learning OPC engineer,"Mountain View, CA",$97K - $169K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Coretelligent,2006,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Management Engineer (L3),"West Palm Beach, FL",$66K - $95K (Glassdoor est.)
+Ouva,2015,Unknown / Non-Applicable,1 to 50 Employees,Manufacturing,Senior Machine Learning Engineer,"San Francisco, CA",$134K - $205K (Glassdoor est.)
+Battelle,1929,$5 to $10 billion (USD),1001 to 5000 Employees,Management & Consulting,Data Scientist/Modeler II,"Columbus, OH",$84K - $117K (Glassdoor est.)
+Analog Devices,1965,$10+ billion (USD),10000+ Employees,Manufacturing,Data & Analytics Strategy Engineer,"Wilmington, MA",$110K - $153K (Glassdoor est.)
+PayPal,1998,$10+ billion (USD),10000+ Employees,Information Technology,"Data Science Mng, Marketing Analytics",California,$85K - $205K (Employer est.)
+Tesla,2003,$1 to $5 billion (USD),10000+ Employees,Manufacturing,"AI Compiler Engineer, Autonomy - Palo Alto, CA","Palo Alto, CA",$99K - $158K (Glassdoor est.)
+Mayo Clinic,NaN,$10+ billion (USD),10000+ Employees,Healthcare,Artificial Intelligence Scientist,"Rochester, MN",$77K - $125K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+HERSHEY MX,1894,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Data Science Co-Op (Fall 2023),"Hershey, PA",$58K - $95K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+"246,200",1879,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities","Data Engineering and Advanced Analytics, Senior Manager [HYBRID]","Rosemead, CA",$93K - $132K (Glassdoor est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Playrix,2004,Unknown / Non-Applicable,501 to 1000 Employees,Media & Communication,Head Of Data Science,Remote,NaN
+Coretelligent,2006,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Management Engineer (L3),"West Palm Beach, FL",$66K - $95K (Glassdoor est.)
+"The Travelers Companies, Inc.",1853,$10+ billion (USD),10000+ Employees,Insurance,Cloud Data Engineer II- Enterprise Analytics Data Products,"Hartford, CT",$114K - $188K (Employer est.)
+Tesla,2003,$1 to $5 billion (USD),10000+ Employees,Manufacturing,"Machine Learning Framework Engineer, Autopilot AI","Palo Alto, CA",$104K - $157K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+Freeport McMoRan,NaN,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Engineer I,"Phoenix, AZ",$68K - $92K (Glassdoor est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Fives,1812,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,"Data Science Engineer (Machine Vision, Machine Learning, Python)","Seattle, WA",$107K - $135K (Employer est.)
+Mayo Clinic,NaN,$10+ billion (USD),10000+ Employees,Healthcare,Data Science Analyst - Platform - Remote,"Rochester, MN",$95K - $134K (Employer est.)
+national neurotrauma society,NaN,NaN,NaN,NaN,Post-doctoral Scholar- Biomedical Data Science,California,NaN
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Ouva,2015,Unknown / Non-Applicable,1 to 50 Employees,Manufacturing,Senior Machine Learning Engineer,"San Francisco, CA",$134K - $205K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Brown Brothers Harriman,1818,$1 to $5 billion (USD),1001 to 5000 Employees,Financial Services,Sr. Java Performance Engineer (Data Science),"Boston, MA",$103K - $151K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+HERSHEY MX,1894,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Data Science Co-Op (Fall 2023),"Hershey, PA",$58K - $95K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Dow Jones,1882,$500 million to $1 billion (USD),5001 to 10000 Employees,Media & Communication,"Sr. Data Analyst, Data Science & Insights","New York, NY",$40K - $160K (Employer est.)
+Abbott Laboratories,1888,$10+ billion (USD),10000+ Employees,Healthcare,"Director, Data Science & Advanced Analytics","Sylmar, CA",$136K - $272K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+TikTok,2016,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,"Machine Learning Engineer, Risk Data Mining - USDS","Mountain View, CA",$126K - $305K (Employer est.)
+Roku,2002,$500 million to $1 billion (USD),1001 to 5000 Employees,Information Technology,"Sr. Manager, Data Science","Austin, TX",$292K - $600K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+DraftKings,2012,Unknown / Non-Applicable,1001 to 5000 Employees,Information Technology,SENIOR DATA SCIENCE ENGINEER (ECONOMIST),"Boston, MA",$99K - $141K (Glassdoor est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+NXP Semiconductors,2006,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Global Data Science CoE Project Manager,"Austin, TX",$96K - $136K (Glassdoor est.)
+Regions,1971,$5 to $10 billion (USD),10000+ Employees,Financial Services,Data Scientist - (REMOTE OPPORTUNITY),"Hoover, AL",$38K - $58K (Glassdoor est.)
+Parexel,1982,$1 to $5 billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Business Intelligence Analyst,Remote,NaN
+Chainlink Labs,2014,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,"Senior Data Engineer, Data Analytics",Remote,NaN
+Smith & Associates,1984,$1 to $5 billion (USD),501 to 1000 Employees,Information Technology,Junior AI/ML Engineer,"Houston, TX",$43K - $64K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Salesforce,1999,$10+ billion (USD),10000+ Employees,Information Technology,"Director of Data Science, Expansion - Slack",California,$176K - $255K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+World Bank Group,NaN,$1 to $5 billion (USD),10000+ Employees,NaN,Data Analyst,"Washington, DC",$60K - $87K (Glassdoor est.)
+HERSHEY MX,1894,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Data Science Co-Op (Fall 2023),"Hershey, PA",$58K - $95K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Storylines,2016,Unknown / Non-Applicable,1 to 50 Employees,Hotels & Travel Accommodation,Python Machine Learning Developer,Remote,NaN
+Allianz US Life,1890,$10+ billion (USD),10000+ Employees,Financial Services,Analytics Consultant | Hybrid,"Minneapolis, MN",$78K - $121K (Glassdoor est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Intuit,1983,$10+ billion (USD),10000+ Employees,Information Technology,Data Engineer II (Mailchimp),"Brooklyn, NY",$93K - $142K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,Telemedicine Operations Specialist,"San Francisco, CA",$69K - $118K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+Blue Origin,2000,$5 to $25 million (USD),1001 to 5000 Employees,Aerospace & Defense,Data Engineer III,"Seattle, WA",$136K - $200K (Employer est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+AT&T,1876,$10+ billion (USD),10000+ Employees,Telecommunications,Advanced Analytics Director,"Atlanta, GA",$171.00 Per Hour(Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+national neurotrauma society,NaN,NaN,NaN,NaN,Post-doctoral Scholar- Biomedical Data Science,California,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Corteva Agriscience,2019,Unknown / Non-Applicable,10000+ Employees,Agriculture,Data Engineer,"Des Moines, IA",$78K - $116K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Alston & Bird,1982,$500 million to $1 billion (USD),1001 to 5000 Employees,Legal,Data Scientist / Analytics Engineer,"Atlanta, GA",$85K - $122K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+IQVIA,2017,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Data Engineer,Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Allianz US Life,1890,$10+ billion (USD),10000+ Employees,Financial Services,Analytics Consultant | Hybrid,"Minneapolis, MN",$78K - $121K (Glassdoor est.)
+Arkansas Blue Cross and Blue Shield,1948,$1 to $5 billion (USD),1001 to 5000 Employees,Insurance,Data Engineer,Oklahoma,NaN
+Moen,NaN,$25 to $100 million (USD),201 to 500 Employees,Retail & Wholesale,"Director, Data Science","North Olmsted, OH",$175K - $200K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Ubisoft,1986,$1 to $5 billion (USD),10000+ Employees,Media & Communication,AI Engineer – XDefiant,"San Francisco, CA",$97K - $155K (Glassdoor est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Sia Partners,1999,$100 to $500 million (USD),1001 to 5000 Employees,Management & Consulting,Data Science Consultant,"San Francisco, CA",$94K - $122K (Employer est.)
+"Analysis Group, Inc.",1981,$100 to $500 million (USD),1001 to 5000 Employees,Management & Consulting,Data Engineer,"Boston, MA",$93K - $135K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+Parexel,1982,$1 to $5 billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Business Intelligence Analyst,Remote,NaN
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Staff Analytics Engineer,"Culver City, CA",$130K - $241K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Norwin,NaN,Unknown / Non-Applicable,1 to 50 Employees,Manufacturing,Data Engineer,"South San Francisco, CA",$90.00 Per Hour(Employer est.)
+HERSHEY MX,1894,$5 to $10 billion (USD),10000+ Employees,Manufacturing,Data Science Co-Op (Fall 2023),"Hershey, PA",$58K - $95K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Tesla,2003,$1 to $5 billion (USD),10000+ Employees,Manufacturing,"AI Compiler Engineer, Autonomy - Palo Alto, CA","Palo Alto, CA",$99K - $158K (Glassdoor est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+GSK,1830,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,AI/ML Engineer – Sequence Learning,"San Francisco, CA",$59K - $100K (Glassdoor est.)
+Alston & Bird,1982,$500 million to $1 billion (USD),1001 to 5000 Employees,Legal,Data Scientist / Analytics Engineer,"Atlanta, GA",$85K - $122K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,Telemedicine Operations Specialist,"San Francisco, CA",$69K - $118K (Glassdoor est.)
+PGA Tour,1968,$500 million to $1 billion (USD),1001 to 5000 Employees,"Arts, Entertainment & Recreation",Data Analyst Experience Management,"Ponte Vedra Beach, FL",$50K - $70K (Glassdoor est.)
+Electric Power Research Institute,1973,$100 to $500 million (USD),501 to 1000 Employees,Management & Consulting,Digital Transformation/Data Science Student Employee,Remote,NaN
+New York Life Insurance Co,1845,$10+ billion (USD),10000+ Employees,Insurance,"Data Analyst, Sr. Associate","Dallas, TX",$90K - $135K (Employer est.)
+Ameren,1904,$5 to $10 billion (USD),5001 to 10000 Employees,"Energy, Mining & Utilities",Senior Business Intelligence Engineer,Remote,NaN
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+North Carolina State University,1887,$500 million to $1 billion (USD),1001 to 5000 Employees,Education,Data Science Education Postdoctoral Scholar,"Raleigh, NC",$70K (Employer est.)
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Allianz US Life,1890,$10+ billion (USD),10000+ Employees,Financial Services,Analytics Consultant | Hybrid,"Minneapolis, MN",$78K - $121K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Silicon Labs Careers,1996,$500 million to $1 billion (USD),1001 to 5000 Employees,Manufacturing,Senior Data Analyst,"Austin, TX",$91K - $127K (Glassdoor est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,Applied Data Scientist III,"San Francisco, CA",$190K - $352K (Employer est.)
+Ouva,2015,Unknown / Non-Applicable,1 to 50 Employees,Manufacturing,Senior Machine Learning Engineer,"San Francisco, CA",$134K - $205K (Glassdoor est.)
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Tesla,2003,$1 to $5 billion (USD),10000+ Employees,Manufacturing,"AI Compiler Engineer, Autonomy - Palo Alto, CA","Palo Alto, CA",$99K - $158K (Glassdoor est.)
+Costco Wholesale,1976,Unknown / Non-Applicable,10000+ Employees,Retail & Wholesale,Data Engineer - Data Science & Analytics,"Seattle, WA",$100K - $135K (Employer est.)
+Alston & Bird,1982,$500 million to $1 billion (USD),1001 to 5000 Employees,Legal,Data Scientist / Analytics Engineer,"Atlanta, GA",$85K - $122K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Smith & Associates,1984,$1 to $5 billion (USD),501 to 1000 Employees,Information Technology,Junior AI/ML Engineer,"Houston, TX",$43K - $64K (Glassdoor est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+Warner Bros. Discovery,2003,$10+ billion (USD),10000+ Employees,Media & Communication,"Executive Director, Data Science","Burbank, CA",$125K - $233K (Employer est.)
+Allianz US Life,1890,$10+ billion (USD),10000+ Employees,Financial Services,Analytics Consultant | Hybrid,"Minneapolis, MN",$78K - $121K (Glassdoor est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+UBS,1862,$10+ billion (USD),10000+ Employees,Financial Services,Quantitative Analytics & Data Science Specialist,"New York, NY",$80K - $100K (Employer est.)
+Zoox,2014,Less than $1 million (USD),501 to 1000 Employees,Information Technology,"Manager, Data Science","Foster City, CA",$204K - $294K (Employer est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Analytics Engineer (L5) - Content,Remote,NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,Telemedicine Operations Specialist,"San Francisco, CA",$69K - $118K (Glassdoor est.)
+Cognira,2015,Unknown / Non-Applicable,51 to 200 Employees,Information Technology,Senior Data Engineer,"Atlanta, GA",$103K - $149K (Glassdoor est.)
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
+Parexel,1982,$1 to $5 billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,Business Intelligence Analyst,Remote,NaN
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Storylines,2016,Unknown / Non-Applicable,1 to 50 Employees,Hotels & Travel Accommodation,Python Machine Learning Developer,Remote,NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Allianz US Life,1890,$10+ billion (USD),10000+ Employees,Financial Services,Analytics Consultant | Hybrid,"Minneapolis, MN",$78K - $121K (Glassdoor est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+CooperSurgical,1990,Unknown / Non-Applicable,Unknown,Manufacturing,Data Science,California,$116K - $193K (Employer est.)
+Nike,1972,$10+ billion (USD),10000+ Employees,Manufacturing,Data Engineer,"Beaverton, OR",$95K - $135K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,Telemedicine Operations Specialist,"San Francisco, CA",$69K - $118K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Tesla,2003,$1 to $5 billion (USD),10000+ Employees,Manufacturing,"AI Compiler Engineer, Autonomy - Palo Alto, CA","Palo Alto, CA",$99K - $158K (Glassdoor est.)
+University of Pennsylvania,1740,Unknown / Non-Applicable,10000+ Employees,Education,Data Scientist,"Philadelphia, PA",NaN
+"The Travelers Companies, Inc.",1853,$10+ billion (USD),10000+ Employees,Insurance,"Data Engineer 1 (AWS, SQL, Python)","Hartford, CT",$103K - $169K (Employer est.)
+HP,1939,Unknown / Non-Applicable,10000+ Employees,Information Technology,Data Science Engineer,"Spring, TX",NaN
+BlackRock,1988,$10+ billion (USD),10000+ Employees,Financial Services,"Associate, Data Science","Palo Alto, CA",$128K - $145K (Employer est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Deloitte,1850,$10+ billion (USD),10000+ Employees,Financial Services,Junior Data Engineer,"Austin, TX",$76K - $111K (Glassdoor est.)
+Western Union,1851,$5 to $10 billion (USD),10000+ Employees,Financial Services,"Manager, Data Science","Denver, CO",$100K - $176K (Employer est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+GSK,1830,$10+ billion (USD),10000+ Employees,Pharmaceutical & Biotechnology,AI/ML Engineer – Sequence Learning,"San Francisco, CA",$59K - $100K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+Netflix,1997,$5 to $10 billion (USD),5001 to 10000 Employees,Information Technology,Data Engineer (L5),Remote,NaN
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,ML Engineer,"Dallas, TX",$83K - $117K (Glassdoor est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,Senior Data Engineer,"New York, NY",$121K - $170K (Glassdoor est.)
+Harvard Business Publishing,1994,$100 to $500 million (USD),201 to 500 Employees,Media & Communication,Digital Analytics and A/B Testing Co-op,"Boston, MA",NaN
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Telemedicine","San Francisco, CA",NaN
+"Zoom Video Communications, Inc.",2011,$1 to $5 billion (USD),1001 to 5000 Employees,Information Technology,Audio AI Engineer,"San Francisco, CA",$99K (Employer est.)
+pulseData,2015,Unknown / Non-Applicable,1 to 50 Employees,Healthcare,Data Engineer - Jr/Mid Level (Remote),United States,$75K - $120K (Employer est.)
+Visa,1958,$10+ billion (USD),10000+ Employees,Information Technology,Staff Data Engineer,"Austin, TX",$111K - $155K (Glassdoor est.)
+Allianz US Life,1890,$10+ billion (USD),10000+ Employees,Financial Services,Analytics Consultant | Hybrid,"Minneapolis, MN",$78K - $121K (Glassdoor est.)
+Anblicks,2004,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Science (AI/ML),"Dallas, TX",$57K - $90K (Glassdoor est.)
+Nike,1972,$10+ billion (USD),10000+ Employees,Manufacturing,Data Engineer,"Beaverton, OR",$95K - $135K (Glassdoor est.)
+Stanford Health Care,1957,$1 to $5 billion (USD),10000+ Employees,Healthcare,Sr. Data Engineer - AI/ML,"Palo Alto, CA",$72.49 - $96.06 Per Hour(Employer est.)
+Brown Brothers Harriman,1818,$1 to $5 billion (USD),1001 to 5000 Employees,Financial Services,Sr. Java Performance Engineer (Data Science),"Boston, MA",$103K - $151K (Glassdoor est.)
+T. Rowe Price,1937,$1 to $5 billion (USD),5001 to 10000 Employees,Financial Services,"Analyst, Data Science and Analytics","Owings Mills, MD",$72K - $122K (Employer est.)
+Amex,1850,$10+ billion (USD),10000+ Employees,Financial Services,Data Scientist - Global Decision Science,"New York, NY",$90K - $165K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,Telemedicine Operations Specialist,"San Francisco, CA",$69K - $118K (Glassdoor est.)
+Brilliant,NaN,Unknown / Non-Applicable,Unknown,NaN,Producer - Data Science,"San Francisco, CA",$120K - $180K (Employer est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Strategy and Analytics, Growth","San Francisco, CA",NaN
+Duke Energy,1917,$10+ billion (USD),10000+ Employees,"Energy, Mining & Utilities",Data Science Consultant,"Charlotte, NC",$80K - $115K (Glassdoor est.)
+Tesla,2003,$1 to $5 billion (USD),10000+ Employees,Manufacturing,"AI Compiler Engineer, Autonomy - Palo Alto, CA","Palo Alto, CA",$99K - $158K (Glassdoor est.)
+"Health Services Advisory Group, Inc.",1979,$25 to $100 million (USD),201 to 500 Employees,Healthcare,Analyst I,Remote,$70K - $75K (Employer est.)
+Spotify,2006,Unknown / Non-Applicable,5001 to 10000 Employees,Information Technology,"Senior Machine Learning Engineer, AdTech","New York, NY",$111K - $167K (Glassdoor est.)
+CALICO,2013,Unknown / Non-Applicable,201 to 500 Employees,Pharmaceutical & Biotechnology,"Data Scientist, Image Analysis","South San Francisco, CA",$99K - $126K (Employer est.)
+Caterpillar,1925,$10+ billion (USD),10000+ Employees,Manufacturing,Data Analytics Engineer,"Chicago, IL",$84K - $113K (Glassdoor est.)
+Forward,2016,Unknown / Non-Applicable,Unknown,Healthcare,"Software Engineer, Data Science","San Francisco, CA",$113K - $169K (Glassdoor est.)
+Abbott Laboratories,1888,$10+ billion (USD),10000+ Employees,Healthcare,"Director, Data Science & Advanced Analytics","Sylmar, CA",$136K - $272K (Employer est.)
+Coretelligent,2006,$5 to $25 million (USD),201 to 500 Employees,Information Technology,Data Management Engineer (L3),"West Palm Beach, FL",$66K - $95K (Glassdoor est.)
+Entegris,1966,$1 to $5 billion (USD),5001 to 10000 Employees,Manufacturing,Data Engineer Coop,United States,NaN
+University of Pennsylvania,1740,Unknown / Non-Applicable,10000+ Employees,Education,Data Scientist,"Philadelphia, PA",NaN
+Rhino New York,2017,Unknown / Non-Applicable,51 to 200 Employees,Insurance,"Director, Data and Analytics",Remote,$170K - $210K (Employer est.)
